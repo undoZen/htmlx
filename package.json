@@ -1,6 +1,6 @@
 {
   "name": "htmlx",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "transform htmlx (html-like template part of jsx) to react dom dsl",
   "main": "index.js",
   "scripts": {
